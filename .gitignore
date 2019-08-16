@@ -1,0 +1,7 @@
+venv/
+spark-warehouse/
+.idea/
+target/
+__pycache__/
+
+conf.py

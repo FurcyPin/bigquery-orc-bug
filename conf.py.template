@@ -1,0 +1,8 @@
+# Rename this file to conf.py and set these variables to something suitable for your testing environment
+
+GS_BUCKET_NAME = ""
+BQ_PROJECT_NAME = ""
+JSON_KEYFILE_PATH = "conf/gcs-credentials.json" # Put the proper json file in the conf folder
+DATASET_NAME = ""
+TABLE_NAME = "orc-test"
+

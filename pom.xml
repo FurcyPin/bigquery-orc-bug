@@ -1,0 +1,22 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>fpin</groupId>
+  <artifactId>bigquery-orc-bug</artifactId>
+  <version>0.0.1</version>
+
+  <dependencies>
+    <!-- Spark Connector for Big Query -->
+    <dependency>
+      <groupId>com.google.cloud.bigdataoss</groupId>
+      <artifactId>bigquery-connector</artifactId>
+      <version>0.13.4-hadoop2</version>
+    </dependency>
+    <dependency>
+      <groupId>com.google.cloud</groupId>
+      <artifactId>google-cloud-bigquery</artifactId>
+      <version>1.39.0</version>
+    </dependency>
+
+  </dependencies>
+</project>
+
